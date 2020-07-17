@@ -1,0 +1,37 @@
+{
+    "htmlbs": {
+        "scope": "html",
+        "prefix": "htmlbs",
+        "description": "Starter template for html plus bootstrap",
+        "body": [
+            "<!doctype html>",
+            "<html lang=\"en\">",
+            "\t<head>",
+            "\t\t<!-- Required meta tags -->",
+            "\t\t<meta charset=\"utf-8\">",
+            "\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">",
+            "",
+            "\t\t<!-- Bootstrap CSS -->",
+            "\t\t<link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/${1:4.5.0}/css/bootstrap.min.css\" integrity=\"sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk\" crossorigin=\"anonymous\">",
+            "",
+            "\t\t<title>Hello, world!</title>",
+            "\t</head>",
+            "\t<body>",
+            "\t\t<h1>Hello, world!</h1>",
+            "",
+            "\t\t<!-- Optional JavaScript -->",
+            "\t\t<!-- jQuery first, then Popper.js, then Bootstrap JS -->",
+            "\t\t<script src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\" integrity=\"sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj\" crossorigin=\"anonymous\"></script>",
+            "\t\t<script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js\" integrity=\"sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo\" crossorigin=\"anonymous\"></script>",
+            "\t\t<script src=\"https://stackpath.bootstrapcdn.com/bootstrap/${1:4.5.0}/js/bootstrap.min.js\" integrity=\"sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI\" crossorigin=\"anonymous\"></script>",
+            "\t</body>",
+            "</html>"
+        ]
+    },
+    "comment": {
+        "scope": "html",
+        "prefix": "comment",
+        "description": "Insert comment",
+        "body": "<!-- ${1:your-comment} -->"
+    }
+}
