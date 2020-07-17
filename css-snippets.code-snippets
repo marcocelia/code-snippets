@@ -117,58 +117,58 @@
 		"scope": "css", "prefix": "h0i", "body": [ "height: ${100}${2:%} !important;" ], "description": "height equal to "
 	},
 	"max-height 100": {
-		"scope": "css", "prefix": "h100", "body": [ "max-height: ${1:100}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh100", "body": [ "max-height: ${1:100}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 75": {
-		"scope": "css", "prefix": "h75", "body": [ "max-height: ${1:75}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh75", "body": [ "max-height: ${1:75}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 50": {
-		"scope": "css", "prefix": "h50", "body": [ "max-height: ${1:50}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh50", "body": [ "max-height: ${1:50}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 25": {
-		"scope": "css", "prefix": "h25", "body": [ "max-height: ${1:25}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh25", "body": [ "max-height: ${1:25}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 0": {
-		"scope": "css", "prefix": "h0", "body": [ "max-height: 0${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh0", "body": [ "max-height: 0${2:%};" ], "description": "max-height equal to "
 	},
 	"min-height 100": {
-		"scope": "css", "prefix": "h100", "body": [ "min-height: ${1:100}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh100", "body": [ "min-height: ${1:100}${2:%};" ], "description": "min-height equal to "
 	},
 	"min-height 75": {
-		"scope": "css", "prefix": "h75", "body": [ "min-height: ${1:75}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh75", "body": [ "min-height: ${1:75}${2:%};" ], "description": "min-height equal to "
 	},
 	"min-height 50": {
-		"scope": "css", "prefix": "h50", "body": [ "min-height: ${1:50}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh50", "body": [ "min-height: ${1:50}${2:%};" ], "description": "min-height equal to "
 	},
 	"min-height 25": {
-		"scope": "css", "prefix": "h25", "body": [ "min-height: ${1:25}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh25", "body": [ "min-height: ${1:25}${2:%};" ], "description": "min-height equal to "
 	},
 	"max-height 100 important": {
-		"scope": "css", "prefix": "h100", "body": [ "max-height: ${1:100}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh100i", "body": [ "max-height: ${1:100}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 75 important": {
-		"scope": "css", "prefix": "h75", "body": [ "max-height: ${1:75}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh75i", "body": [ "max-height: ${1:75}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 50 important": {
-		"scope": "css", "prefix": "h50", "body": [ "max-height: ${1:50}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh50i", "body": [ "max-height: ${1:50}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 25 important": {
-		"scope": "css", "prefix": "h25", "body": [ "max-height: ${1:25}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh25i", "body": [ "max-height: ${1:25}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 0 important": {
-		"scope": "css", "prefix": "h0", "body": [ "max-height: 0${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "Mh0i", "body": [ "max-height: 0${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"min-height 100 important": {
-		"scope": "css", "prefix": "h100", "body": [ "min-height: ${1:100}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh100i", "body": [ "min-height: ${1:100}${2:%} !important;" ], "description": "min-height equal to "
 	},
 	"min-height 75 important": {
-		"scope": "css", "prefix": "h75", "body": [ "min-height: ${1:75}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh75i", "body": [ "min-height: ${1:75}${2:%} !important;" ], "description": "min-height equal to "
 	},
 	"min-height 50 important": {
-		"scope": "css", "prefix": "h50", "body": [ "min-height: ${1:50}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh50i", "body": [ "min-height: ${1:50}${2:%} !important;" ], "description": "min-height equal to "
 	},
 	"min-height 25 important": {
-		"scope": "css", "prefix": "h25", "body": [ "min-height: ${1:25}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "mh25i", "body": [ "min-height: ${1:25}${2:%} !important;" ], "description": "min-height equal to "
 	},
 
 //CALCS
