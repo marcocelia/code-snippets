@@ -1,198 +1,198 @@
 {
 // WIDTH
 	"width 100": {
-		"scope": "css", "prefix": "w100", "body": [ "width: ${1:100}${2:%};" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w100", "body": [ "width: ${1:100}${2:%};" ], "description": "width equal to "
 	},
 	"width 75": {
-		"scope": "css", "prefix": "w75", "body": [ "width: ${1:75}${2:%};" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w75", "body": [ "width: ${1:75}${2:%};" ], "description": "width equal to "
 	},
 	"width 50": {
-		"scope": "css", "prefix": "w50", "body": [ "width: ${1:50}${2:%};" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w50", "body": [ "width: ${1:50}${2:%};" ], "description": "width equal to "
 	},
 	"width 25": {
-		"scope": "css", "prefix": "w25", "body": [ "width: ${1:25}${2:%};" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w25", "body": [ "width: ${1:25}${2:%};" ], "description": "width equal to "
 	},
 	"width 0": {
-		"scope": "css", "prefix": "w0", "body": [ "width: 0${2:%};" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w0", "body": [ "width: 0${2:%};" ], "description": "width equal to "
 	},
 	"width 100 important": {
-		"scope": "css", "prefix": "w100i", "body": [ "width: ${1:100}${2:%} !important;" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w100i", "body": [ "width: ${1:100}${2:%} !important;" ], "description": "width equal to "
 	},
 	"width 75 important": {
-		"scope": "css", "prefix": "w75i", "body": [ "width: ${1:75}${2:%} !important;" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w75i", "body": [ "width: ${1:75}${2:%} !important;" ], "description": "width equal to "
 	},
 	"width 50 important": {
-		"scope": "css", "prefix": "w50i", "body": [ "width: ${1:50}${2:%} !important;" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w50i", "body": [ "width: ${1:50}${2:%} !important;" ], "description": "width equal to "
 	},
 	"width 25 important": {
-		"scope": "css", "prefix": "w25i", "body": [ "width: ${1:25}${2:%} !important;" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w25i", "body": [ "width: ${1:25}${2:%} !important;" ], "description": "width equal to "
 	},
 	"width 0 important": {
-		"scope": "css", "prefix": "w0i", "body": [ "width: ${100}${2:%} !important;" ], "description": "width equal to "
+		"scope": "css", "prefix": "c-w0i", "body": [ "width: ${100}${2:%} !important;" ], "description": "width equal to "
 	},
 	"max width 100": {
-		"scope": "css", "prefix": "Mw100", "body": [ "max-width: ${1:100}${2:%};" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw100", "body": [ "max-width: ${1:100}${2:%};" ], "description": "max width equal to "
 	},
 	"max width 75": {
-		"scope": "css", "prefix": "Mw75", "body": [ "max-width: ${1:75}${2:%};" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw75", "body": [ "max-width: ${1:75}${2:%};" ], "description": "max width equal to "
 	},
 	"max width 50": {
-		"scope": "css", "prefix": "Mw50", "body": [ "max-width: ${1:50}${2:%};" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw50", "body": [ "max-width: ${1:50}${2:%};" ], "description": "max width equal to "
 	},
 	"max width 25": {
-		"scope": "css", "prefix": "Mw25", "body": [ "max-width: ${1:25}${2:%};" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw25", "body": [ "max-width: ${1:25}${2:%};" ], "description": "max width equal to "
 	},
 	"max width 0": {
-		"scope": "css", "prefix": "Mw0", "body": [ "max-width: 0${2:%};" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw0", "body": [ "max-width: 0${2:%};" ], "description": "max width equal to "
 	},
 	"min width 100": {
-		"scope": "css", "prefix": "mw100", "body": [ "min-width: ${1:100}${2:%};" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw100", "body": [ "min-width: ${1:100}${2:%};" ], "description": "min width equal to "
 	},
 	"min width 75": {
-		"scope": "css", "prefix": "mw75", "body": [ "min-width: ${1:75}${2:%};" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw75", "body": [ "min-width: ${1:75}${2:%};" ], "description": "min width equal to "
 	},
 	"min width 50": {
-		"scope": "css", "prefix": "mw50", "body": [ "min-width: ${1:50}${2:%};" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw50", "body": [ "min-width: ${1:50}${2:%};" ], "description": "min width equal to "
 	},
 	"min width 25": {
-		"scope": "css", "prefix": "mw25", "body": [ "min-width: ${1:25}${2:%};" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw25", "body": [ "min-width: ${1:25}${2:%};" ], "description": "min width equal to "
 	},
 	"max width 100 important": {
-		"scope": "css", "prefix": "Mw100i", "body": [ "max-width: ${1:100}${2:%} !important;" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw100i", "body": [ "max-width: ${1:100}${2:%} !important;" ], "description": "max width equal to "
 	},
 	"max width 75 important": {
-		"scope": "css", "prefix": "Mw75i", "body": [ "max-width: ${1:75}${2:%} !important;" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw75i", "body": [ "max-width: ${1:75}${2:%} !important;" ], "description": "max width equal to "
 	},
 	"max width 50 important": {
-		"scope": "css", "prefix": "Mw50i", "body": [ "max-width: ${1:50}${2:%} !important;" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw50i", "body": [ "max-width: ${1:50}${2:%} !important;" ], "description": "max width equal to "
 	},
 	"max width 25 important": {
-		"scope": "css", "prefix": "Mw25i", "body": [ "max-width: ${1:25}${2:%} !important;" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw25i", "body": [ "max-width: ${1:25}${2:%} !important;" ], "description": "max width equal to "
 	},
 	"max width 0 important": {
-		"scope": "css", "prefix": "Mw0i", "body": [ "max-width: ${100}${2:%} !important;" ], "description": "max width equal to "
+		"scope": "css", "prefix": "c-Mw0i", "body": [ "max-width: ${100}${2:%} !important;" ], "description": "max width equal to "
 	},
 	"min width 100 important": {
-		"scope": "css", "prefix": "mw100i", "body": [ "min-width: ${1:100}${2:%} !important;" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw100i", "body": [ "min-width: ${1:100}${2:%} !important;" ], "description": "min width equal to "
 	},
 	"min width 75 important": {
-		"scope": "css", "prefix": "mw75i", "body": [ "min-width: ${1:75}${2:%} !important;" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw75i", "body": [ "min-width: ${1:75}${2:%} !important;" ], "description": "min width equal to "
 	},
 	"min width 50 important": {
-		"scope": "css", "prefix": "mw50i", "body": [ "min-width: ${1:50}${2:%} !important;" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw50i", "body": [ "min-width: ${1:50}${2:%} !important;" ], "description": "min width equal to "
 	},
 	"min width 25 important": {
-		"scope": "css", "prefix": "mw25i", "body": [ "min-width: ${1:25}${2:%} !important;" ], "description": "min width equal to "
+		"scope": "css", "prefix": "c-mw25i", "body": [ "min-width: ${1:25}${2:%} !important;" ], "description": "min width equal to "
 	},
 
 // HEIGTH
 	"height 100": {
-		"scope": "css", "prefix": "h100", "body": [ "height: ${1:100}${2:%};" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h100", "body": [ "height: ${1:100}${2:%};" ], "description": "height equal to "
 	},
 	"height 75": {
-		"scope": "css", "prefix": "h75", "body": [ "height: ${1:75}${2:%};" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h75", "body": [ "height: ${1:75}${2:%};" ], "description": "height equal to "
 	},
 	"height 50": {
-		"scope": "css", "prefix": "h50", "body": [ "height: ${1:50}${2:%};" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h50", "body": [ "height: ${1:50}${2:%};" ], "description": "height equal to "
 	},
 	"height 25": {
-		"scope": "css", "prefix": "h25", "body": [ "height: ${1:25}${2:%};" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h25", "body": [ "height: ${1:25}${2:%};" ], "description": "height equal to "
 	},
 	"height 0": {
-		"scope": "css", "prefix": "h0", "body": [ "height: 0${2:%};" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h0", "body": [ "height: 0${2:%};" ], "description": "height equal to "
 	},
 	"height 100 important": {
-		"scope": "css", "prefix": "h100i", "body": [ "height: ${1:100}${2:%} !important;" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h100i", "body": [ "height: ${1:100}${2:%} !important;" ], "description": "height equal to "
 	},
 	"height 75 important": {
-		"scope": "css", "prefix": "h75i", "body": [ "height: ${1:75}${2:%} !important;" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h75i", "body": [ "height: ${1:75}${2:%} !important;" ], "description": "height equal to "
 	},
 	"height 50 important": {
-		"scope": "css", "prefix": "h50i", "body": [ "height: ${1:50}${2:%} !important;" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h50i", "body": [ "height: ${1:50}${2:%} !important;" ], "description": "height equal to "
 	},
 	"height 25 important": {
-		"scope": "css", "prefix": "h25i", "body": [ "height: ${1:25}${2:%} !important;" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h25i", "body": [ "height: ${1:25}${2:%} !important;" ], "description": "height equal to "
 	},
 	"height 0 important": {
-		"scope": "css", "prefix": "h0i", "body": [ "height: ${100}${2:%} !important;" ], "description": "height equal to "
+		"scope": "css", "prefix": "c-h0i", "body": [ "height: ${100}${2:%} !important;" ], "description": "height equal to "
 	},
 	"max-height 100": {
-		"scope": "css", "prefix": "Mh100", "body": [ "max-height: ${1:100}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh100", "body": [ "max-height: ${1:100}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 75": {
-		"scope": "css", "prefix": "Mh75", "body": [ "max-height: ${1:75}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh75", "body": [ "max-height: ${1:75}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 50": {
-		"scope": "css", "prefix": "Mh50", "body": [ "max-height: ${1:50}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh50", "body": [ "max-height: ${1:50}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 25": {
-		"scope": "css", "prefix": "Mh25", "body": [ "max-height: ${1:25}${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh25", "body": [ "max-height: ${1:25}${2:%};" ], "description": "max-height equal to "
 	},
 	"max-height 0": {
-		"scope": "css", "prefix": "Mh0", "body": [ "max-height: 0${2:%};" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh0", "body": [ "max-height: 0${2:%};" ], "description": "max-height equal to "
 	},
 	"min-height 100": {
-		"scope": "css", "prefix": "mh100", "body": [ "min-height: ${1:100}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh100", "body": [ "min-height: ${1:100}${2:%};" ], "description": "min-height equal to "
 	},
 	"min-height 75": {
-		"scope": "css", "prefix": "mh75", "body": [ "min-height: ${1:75}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh75", "body": [ "min-height: ${1:75}${2:%};" ], "description": "min-height equal to "
 	},
 	"min-height 50": {
-		"scope": "css", "prefix": "mh50", "body": [ "min-height: ${1:50}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh50", "body": [ "min-height: ${1:50}${2:%};" ], "description": "min-height equal to "
 	},
 	"min-height 25": {
-		"scope": "css", "prefix": "mh25", "body": [ "min-height: ${1:25}${2:%};" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh25", "body": [ "min-height: ${1:25}${2:%};" ], "description": "min-height equal to "
 	},
 	"max-height 100 important": {
-		"scope": "css", "prefix": "Mh100i", "body": [ "max-height: ${1:100}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh100i", "body": [ "max-height: ${1:100}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 75 important": {
-		"scope": "css", "prefix": "Mh75i", "body": [ "max-height: ${1:75}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh75i", "body": [ "max-height: ${1:75}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 50 important": {
-		"scope": "css", "prefix": "Mh50i", "body": [ "max-height: ${1:50}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh50i", "body": [ "max-height: ${1:50}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 25 important": {
-		"scope": "css", "prefix": "Mh25i", "body": [ "max-height: ${1:25}${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh25i", "body": [ "max-height: ${1:25}${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"max-height 0 important": {
-		"scope": "css", "prefix": "Mh0i", "body": [ "max-height: 0${2:%} !important;" ], "description": "max-height equal to "
+		"scope": "css", "prefix": "c-Mh0i", "body": [ "max-height: 0${2:%} !important;" ], "description": "max-height equal to "
 	},
 	"min-height 100 important": {
-		"scope": "css", "prefix": "mh100i", "body": [ "min-height: ${1:100}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh100i", "body": [ "min-height: ${1:100}${2:%} !important;" ], "description": "min-height equal to "
 	},
 	"min-height 75 important": {
-		"scope": "css", "prefix": "mh75i", "body": [ "min-height: ${1:75}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh75i", "body": [ "min-height: ${1:75}${2:%} !important;" ], "description": "min-height equal to "
 	},
 	"min-height 50 important": {
-		"scope": "css", "prefix": "mh50i", "body": [ "min-height: ${1:50}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh50i", "body": [ "min-height: ${1:50}${2:%} !important;" ], "description": "min-height equal to "
 	},
 	"min-height 25 important": {
-		"scope": "css", "prefix": "mh25i", "body": [ "min-height: ${1:25}${2:%} !important;" ], "description": "min-height equal to "
+		"scope": "css", "prefix": "c-mh25i", "body": [ "min-height: ${1:25}${2:%} !important;" ], "description": "min-height equal to "
 	},
 
 //CALCS
 	"Declare variable": {
 		"scope": "css",
-		"prefix": "dvar",
+		"prefix": "c-dvar",
 		"body": "--${1:varname}: ${2:varvalue};",
 		"description": "var"
 	},
 	"Call variable": {
 		"scope": "css",
-		"prefix": "cvar",
+		"prefix": "c-cvar",
 		"body": "var(--${1:varname})",
 		"description": "var"
 	},
 	"Calc 1 variable": {
 		"scope": "css",
-		"prefix": "calc1",
+		"prefix": "c-calc1",
 		"body": "${1:prop}: calc(var(--${2:var1}) ${3:op} ${4:prop});",
 		"description": "calc"
 	},
 	"Calc 2 variables": {
 		"scope": "css",
-		"prefix": "calc2",
+		"prefix": "c-calc2",
 		"body": "${1:prop}: calc(var(--${2:var1}) ${3:op} var(--${4:var2}));",
 		"description": "calc"
 	},
@@ -200,7 +200,7 @@
 // COMMENTS
 	"new section comment": {
 		"scope": "css",
-		"prefix": "nsc",
+		"prefix": "c-nsc",
 		"body": [
 			"/* ============================================================================",
 			" *\t\t${1:Title}",
@@ -208,6 +208,195 @@
 			" */\n"
 		],
 		"description": "new section comment "
-	}
+	},
+
+    "Block Basic": {
+        "prefix": "c-block",
+        "body": [
+            ".${1:block}{width: 100%; height: 300px; background: #333; display: flex; align-items: center; justify-content: center;}",
+            ".${1:block}__content{color:#fff; text-align:center}"
+        ],
+        "description": "Block Basic"
+    },
+
+    "Col 3": {
+        "prefix": "c-col",
+        "body": [
+            ".${1:column}{width: 100%; display: flex; align-items: center; justify-content: center;}",
+            ".${1:column}__content{text-align:center;flex-basis: 33.33%}",
+            "@media (max-width: 768px) {",
+            "   .${1:column}__content{flex-basis: 100%}",
+            "}"
+        ],
+        "description": "Col 3"
+    },
+
+    "Border": {
+        "prefix": "c-bd",
+        "body": [
+            "border: 1px solid red;"
+        ],
+        "description": "Border"
+    },
+
+    "Tab": {
+        "prefix": "c-tab",
+        "body": [
+            ".tab__item{display:inline-block; padding:10px; background:#ccc; }",
+            ".tab__info{border:1px solid #ddd; height:100px;}",
+            ".tab__info{display:none}",
+            ".tab__info--active{display:block}",
+            ".tab__item--current{background-color:yellow}"
+        ],
+        "description": "Tab"
+    },
+
+    "Media Query": {
+        "prefix": "c-mediaquery",
+        "body": [
+            "@media (max-width: 768px) {",
+            "\t$1",
+            "}"
+        ],
+        "description": "Media Query"
+    },
+
+    "Child Theme": {
+        "prefix": "c-childtheme",
+        "body": [
+            "/*",
+            "Theme Name: Theme Child",
+            "Theme URL: http://yourdomain.com",
+            "Description: Theme Child",
+            "Theme Author: Mario Rossi",
+            "Author URL: http://yourdomain.com",
+            "Template: chaplin",
+            "Version: 1.0.0",
+            "Text Domain: theme-child",
+            "",
+            " */"
+        ],
+        "description": "Child Theme"
+    },
+
+    "Animate All": {
+        "prefix": "c-animate",
+        "body": [
+            ".animate {  -webkit-transition: all 0.3s ease-in-out;",
+            "    	 -moz-transition: all 0.3s ease-in-out;",
+            "    	 -ms-transition: all 0.3s ease-in-out;",
+            "    	 -o-transition: all 0.3s ease-in-out;",
+            "    	 transition: all 0.3s ease-in-out; }"
+        ],
+        "description": "Animate All"
+    },
+
+    "Border Box": {
+        "prefix": "c-borderbox",
+        "body": [
+            "*,",
+            "*:before,",
+            "*:after {",
+            "        -webkit-box-sizing: border-box;",
+            "        -moz-box-sizing: border-box;",
+            "        box-sizing: border-box;",
+            "}"
+        ],
+        "description": "Border Box"
+    },
+
+    "Grid System": {
+        "prefix": "c-gridsystem",
+        "body": [
+            "/* ! Grid System */",
+            ".grid { margin: 0 auto; max-width: 1200px; display: flex; flex-flow: row; flex-wrap: wrap;}",
+            ".grid--center{justify-content: center;}",
+            ".col{ flex: 1;}",
+            "",
+            "[class*='col-'] { position: relative;}",
+            "",
+            ".col-20{ width: 20%; }",
+            ".col-25{ width: 25%; }",
+            ".col-30{ width: 30%; }",
+            ".col-33{ width: 33.33%; }",
+            ".col-50{ width: 50%; }",
+            ".col-70{ width: 70%; }",
+            ".col-80{ width: 80%; }",
+            ".col-100{ width: 100%; }",
+            "",
+            "@media (max-width: 991px) {",
+            "   .tab-20 { width: 20%; }",
+            "   .tab-25 { width: 25%; }",
+            "   .tab-33 { width: 33.33%; }",
+            "   .tab-50 { width: 50%; }",
+            "   .tab-100 { width: 100%; }",
+            "}",
+            "",
+            "@media (max-width: 768px) {",
+            "   [class*='col-'] { width: 100%;}",
+            "   .sma-20 { width: 20%; }",
+            "   .sma-25 { width: 25%; }",
+            "   .sma-33 { width: 33.33%; }",
+            "   .sma-50 { width: 50%; }",
+            "   .sma-100 { width: 100%; }",
+            "",
+            "   .sma-hide{display:none}",
+            "}",
+            ""
+        ],
+        "description": "Grid System"
+    },
+
+    "Font Family": {
+        "prefix": "c-fontfamily",
+        "body": [
+            "font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;"
+        ],
+        "description": "Font Family"
+    },
+
+    "Web Fonts": {
+        "prefix": "c-font",
+        "body": [
+            "@font-face {",
+            "    font-family: 'Neue Montreal';",
+            "    src: url('NeueMontreal-Medium.woff2') format('woff2'),",
+            "    url('NeueMontreal-Medium.woff') format('woff');",
+            "}"
+        ],
+        "description": "Web Fonts"
+    },
+
+    "Translate": {
+        "prefix": "c-translate",
+        "body": [
+            "transform: translateY(20px);"
+        ],
+        "description": "Translate"
+    },
+
+    "Transition": {
+        "prefix": "c-transition",
+        "body": [
+            "transition: all 1s cubic-bezier(.215, .61, .355, 1);"
+        ],
+        "description": "Transition"
+    },
+
+    "Box Shadow": {
+        "prefix": "c-boxshadow",
+        "body": [
+            "box-shadow: 0 5px 20px rgba(0,0,0,.05);"
+        ],
+        "description": "Box Shadow"
+    },
+
+    "Vertical Center": {
+        "prefix": "c-verticalcenter",
+        "body": [
+            "display: flex; width: 100%; height: 100%; align-items: center;"
+        ],
+        "description": "Vertical Center"
+    },
 
 }
